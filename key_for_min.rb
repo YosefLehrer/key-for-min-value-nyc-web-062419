@@ -5,7 +5,6 @@ def key_for_min_value(name_hash)
    name_hash.collect do |name, value|
      if name < 5
        name
-   elsif "nil"
- end
+   
    end
 end
