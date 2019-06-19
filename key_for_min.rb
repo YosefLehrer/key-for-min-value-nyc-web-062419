@@ -8,5 +8,9 @@ if value == 1 || value == 10
  empty_array << key
 end
 end
-empty_array.join
+if empty_array.length == 1
+empty_array.join 
+elsif
+nil
+end
 end
