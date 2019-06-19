@@ -9,7 +9,7 @@ if value == 1 || value == 10
 end
 end
 if empty_array.length == 1
-empty_array
+empty_array(&:to_sym)
 elsif
 nil
 end
