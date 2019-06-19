@@ -8,5 +8,5 @@ if value == 1 || value == 10
  empty_array << key
 end
 end
-empty_array.join
+empty_array.
 end
